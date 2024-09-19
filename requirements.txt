@@ -1,0 +1,10 @@
+appdirs==1.4.4
+Brotli @ file:///croot/brotli-split_1714483155106/work
+lxml==5.3.0
+packaging==24.1
+pyshark==0.6
+PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1698845478203/work
+setuptools==72.1.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+termcolor==2.4.0
+wheel==0.44.0
